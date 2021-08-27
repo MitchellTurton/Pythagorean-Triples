@@ -1,0 +1,4 @@
+#!/bin/bash
+
+javac src/PythTriples.java 
+java src/PythTriples
